@@ -12,6 +12,7 @@ public class Dept {
 
 
     String idcard;
+    String school;
 
     public int getAge() {
         return age;
