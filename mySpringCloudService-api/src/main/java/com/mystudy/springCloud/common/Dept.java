@@ -14,6 +14,8 @@ public class Dept {
     String idcard;
     String school;
 
+    String xxx;
+
     public int getAge() {
         return age;
     }
