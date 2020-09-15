@@ -8,6 +8,9 @@ public class Dept {
 
     String name;
 
+    String address;
+
+
     public int getAge() {
         return age;
     }
@@ -23,6 +26,7 @@ public class Dept {
     public void setName(String name) {
         this.name = name;
     }
+
 
     @Override
     public String toString() {
