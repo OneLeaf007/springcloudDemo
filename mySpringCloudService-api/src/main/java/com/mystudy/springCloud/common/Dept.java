@@ -8,6 +8,11 @@ public class Dept {
 
     String name;
 
+    String address;
+
+
+    String idcard;
+
     public int getAge() {
         return age;
     }
