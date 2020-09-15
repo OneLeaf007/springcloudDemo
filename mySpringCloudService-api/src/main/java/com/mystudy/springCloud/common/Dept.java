@@ -15,6 +15,9 @@ public class Dept {
     String school;
 
     String xxx;
+    
+    String aaa;
+
 
     public int getAge() {
         return age;
